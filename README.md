@@ -27,5 +27,5 @@ The following example class can be created in an org from Setup and then execute
 * If you’ve been following the guides to the letter, COMMUNITY_NAME should be something like one of these:
     * **Capricorn B2B Store**
  
-# To execute the script, run:
-B2BProductMediaImporterPlcExample.createProductMedia();
+## To execute the script, run:
+`B2BProductMediaImporterPlcExample.createProductMedia();`
